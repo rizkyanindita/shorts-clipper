@@ -1,0 +1,10 @@
+node_modules
+out
+build
+.DS_Store
+.env*
+npm-debug.log*
+tsconfig.tsbuildinfo
+
+# Video sumber dan caption unduhan — file besar, cukup disimpan lokal.
+remotion/public/
